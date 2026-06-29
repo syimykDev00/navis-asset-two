@@ -24,11 +24,6 @@ https://navis-asset-v4wg.vercel.app/
 
 ---
 
-## 📸 Preview
-
-![Preview](./preview.png)
-
----
 
 ## 📌 About Project
 This project was built to practice frontend development, UI/UX design, and responsive dashboard interfaces using React.
